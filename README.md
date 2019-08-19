@@ -5,7 +5,7 @@
 - Pointers and dynamic assignments.
 - Linked lists.
 - Multi-file programs.
-- Text and binary filesץ
+- Text and binary files.
 
 ## Our project:
 
