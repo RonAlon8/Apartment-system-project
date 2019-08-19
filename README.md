@@ -1,4 +1,4 @@
-# Apartment-system-project
+# Apartment-system
 
 ## As part of an Advanced Programming course in C we were given a task to teach us different elements:
 
