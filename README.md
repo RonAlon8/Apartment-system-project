@@ -1,6 +1,6 @@
 # Apartment-system
 
-## As part of an Advanced Programming course in C we were given a task to teach us different elements:
+## As part of an Advanced Programming course in C (1st year) we were given a task to teach us different elements:
 
 - Pointers and dynamic assignments.
 - Linked lists.
